@@ -9,7 +9,7 @@ def oxford_comma(array)
   end 
     
   if array. length >= was 3
-    array.last 
+    array.last = array
   
 end
 
